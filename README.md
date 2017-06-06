@@ -9,4 +9,4 @@
 >>> Trump.tweet("Despite the constatn negative press")
 
 
-'Despite the constatn negative press covfefe'
+'Despite the constant negative press covfefe'
